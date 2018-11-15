@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\article",
+    "\\vendor",
+    "\\vendor\\themes",
+    "\\vendor\\themes\\default",
+    "\\vendor\\themes\\default\\assets",
+    "\\vendor\\themes\\default\\assets\\fonts"
+  ],
+  "SelectedNode": "\\app-routing.module.ts",
+  "PreviewInSolutionExplorer": false
+}
