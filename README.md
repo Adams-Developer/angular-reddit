@@ -4,7 +4,7 @@ The user(s) can also up vote and down vote posts.
 
 This project was generated with:
 [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
-Typescript 3
+Typescript 3, and
 Semantic UI
 
 ## Development server
